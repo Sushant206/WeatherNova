@@ -1,8 +1,15 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
+![1s](https://github.com/Sushant206/WeatherNova/assets/98600049/44a678df-a9d3-4f6b-9bce-f7987c045970)
+![2s](https://github.com/Sushant206/WeatherNova/assets/98600049/47f126e8-6b67-4bdb-88f9-4cf0a8513cfa)
+![3s](https://github.com/Sushant206/WeatherNova/assets/98600049/f53ed409-43a7-4e30-bb96-a8af21adef08)
+![4s](https://github.com/Sushant206/WeatherNova/assets/98600049/2b544cfb-0368-408e-b1ee-5fd50a95a546)
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+
+# Output 
+
 
 ## Step 1: Start the Metro Server
 
